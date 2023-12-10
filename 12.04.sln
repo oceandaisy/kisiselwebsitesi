@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.04", "12.04.csproj", "{47BCC129-3119-4C8D-9539-3E812FA418EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{47C924B8-B594-46B0-9DEA-D7CF7DBCED26}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage2.html = HTMLPage2.html
+		..\..\image.jpg = ..\..\image.jpg
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47BCC129-3119-4C8D-9539-3E812FA418EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BCC129-3119-4C8D-9539-3E812FA418EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BCC129-3119-4C8D-9539-3E812FA418EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BCC129-3119-4C8D-9539-3E812FA418EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B975B90-338E-4496-975A-A34046478321}
+	EndGlobalSection
+EndGlobal
